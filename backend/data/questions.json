@@ -1,0 +1,249 @@
+[
+  {
+    "_id": "1767776851461d1140l6ga",
+    "examId": "1767776851460iqwafncfv",
+    "text": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Lisbon"
+    ],
+    "correctAnswer": "Paris",
+    "marks": 2
+  },
+  {
+    "_id": "1767776851463ruwrt2hlr",
+    "examId": "1767776851460iqwafncfv",
+    "text": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": "Mars",
+    "marks": 2
+  },
+  {
+    "_id": "17677768514637u0ar64fk",
+    "examId": "1767776851460iqwafncfv",
+    "text": "What is 2 + 2?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "marks": 2
+  },
+  {
+    "_id": "17677768514648dw71mser",
+    "examId": "1767776851460iqwafncfv",
+    "text": "Who wrote \"Hamlet\"?",
+    "options": [
+      "Charles Dickens",
+      "J.K. Rowling",
+      "William Shakespeare",
+      "Mark Twain"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "marks": 2
+  },
+  {
+    "_id": "1767776851466jxiwj0fzi",
+    "examId": "1767776851460iqwafncfv",
+    "text": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correctAnswer": "Pacific",
+    "marks": 2
+  },
+  {
+    "_id": "1767777382323tmq975cvb",
+    "examId": "1767776851460iqwafncfv",
+    "text": "Windows માં ફાઇલ અથવા ફોલ્ડરનું નામ બદલવા (Rename) માટે કઈ શોર્ટકટ કી વપરાય છે?",
+    "options": [
+      "F1",
+      "F2",
+      "F5",
+      "F10"
+    ],
+    "correctAnswer": "F2",
+    "marks": 1
+  },
+  {
+    "_id": "1767777422737060e11osh",
+    "examId": "1767776851460iqwafncfv",
+    "text": "બિન જરૂરી ઈ-મેઈલને શું કહેવાય છે?",
+    "options": [
+      "Draft Mail",
+      "Inbox Mail",
+      "Spam Mail",
+      "Sent Mail"
+    ],
+    "correctAnswer": "Spam Mail",
+    "marks": 1
+  },
+  {
+    "_id": "1767778894419m4ydjj6fb",
+    "examId": "17677788858292mrtwcova",
+    "text": "Operatin Systemનું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "હાર્ડવેર અને સોફ્ટવેર વચ્ચે કનેક્શન સ્થાપિત કરવું",
+      "ફક્ત ગેમ્સ ચલાવવી",
+      "કી-બોર્ડ અને માઉસને કંટ્રોલ કરવા",
+      "ઇન્ટરનેટ સ્પીડ વધારવી"
+    ],
+    "correctAnswer": "હાર્ડવેર અને સોફ્ટવેર વચ્ચે કનેક્શન સ્થાપિત કરવું",
+    "marks": 1
+  },
+  {
+    "_id": "176777889443892bwkhh88",
+    "examId": "17677788858292mrtwcova",
+    "text": "નીચેનામાંથી કયું Operatin System નથી?",
+    "options": [
+      "Windows 11",
+      "Android",
+      "MS Word",
+      "Linux"
+    ],
+    "correctAnswer": "MS Word",
+    "marks": 1
+  },
+  {
+    "_id": "1768216428478zkgl8ljtc",
+    "examId": "1768216428476vqcdiv24v",
+    "text": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Lisbon"
+    ],
+    "correctAnswer": "Paris",
+    "marks": 2
+  },
+  {
+    "_id": "1768216428479uvwn270m0",
+    "examId": "1768216428476vqcdiv24v",
+    "text": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": "Mars",
+    "marks": 2
+  },
+  {
+    "_id": "17682164284805ribxmxnl",
+    "examId": "1768216428476vqcdiv24v",
+    "text": "What is 2 + 2?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "marks": 2
+  },
+  {
+    "_id": "1768216428481t2ogt53iz",
+    "examId": "1768216428476vqcdiv24v",
+    "text": "Who wrote \"Hamlet\"?",
+    "options": [
+      "Charles Dickens",
+      "J.K. Rowling",
+      "William Shakespeare",
+      "Mark Twain"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "marks": 2
+  },
+  {
+    "_id": "1768216428481sd47ms75l",
+    "examId": "1768216428476vqcdiv24v",
+    "text": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correctAnswer": "Pacific",
+    "marks": 2
+  },
+  {
+    "_id": "176821682121002cvb7p7d",
+    "examId": "1768216821208q3w78bdob",
+    "text": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Lisbon"
+    ],
+    "correctAnswer": "Paris",
+    "marks": 2
+  },
+  {
+    "_id": "1768216821211shla84qxa",
+    "examId": "1768216821208q3w78bdob",
+    "text": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": "Mars",
+    "marks": 2
+  },
+  {
+    "_id": "1768216821212p68gkbsix",
+    "examId": "1768216821208q3w78bdob",
+    "text": "What is 2 + 2?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "marks": 2
+  },
+  {
+    "_id": "17682168212139picc2lus",
+    "examId": "1768216821208q3w78bdob",
+    "text": "Who wrote \"Hamlet\"?",
+    "options": [
+      "Charles Dickens",
+      "J.K. Rowling",
+      "William Shakespeare",
+      "Mark Twain"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "marks": 2
+  },
+  {
+    "_id": "176821682121460sh9fv3y",
+    "examId": "1768216821208q3w78bdob",
+    "text": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correctAnswer": "Pacific",
+    "marks": 2
+  }
+]

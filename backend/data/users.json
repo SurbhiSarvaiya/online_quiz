@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "1767776698911",
+    "name": "Jitendrasinh",
+    "mobile": "9978006069",
+    "password": "$2a$10$kpIq7Eie9N3O8jGgcItEgutaqoNj573/2uW/8I6vDT7Zl8.zAW.C.",
+    "role": "student",
+    "createdAt": "2026-01-07T09:04:58.911Z"
+  },
+  {
+    "_id": "1767776851457",
+    "name": "Admin User",
+    "mobile": "admin123",
+    "password": "$2a$10$8LRt.w9/OmMWrpbkUm4uH.KRkFLBtdlDIojsaAVl73d4VaQ4oEPi6",
+    "role": "admin",
+    "createdAt": "2026-01-07T09:07:31.457Z"
+  },
+  {
+    "_id": "1768214607291",
+    "name": "Surbhi",
+    "mobile": "7405001067",
+    "password": "$2a$10$6zsO/mnzJBGUvCLqLtu0qeNRSgh0e/xgeWF9SioOs5jpMUgbdzO0.",
+    "role": "student",
+    "createdAt": "2026-01-12T10:43:27.291Z"
+  },
+  {
+    "_id": "1768216428474",
+    "name": "Admin User",
+    "mobile": "admin123",
+    "password": "$2a$10$GdwfsH.nG/j8myjC30uc1ecoz4ddPrj2ZQSZ6zLr4dCMRUgl1wdBq",
+    "role": "admin",
+    "createdAt": "2026-01-12T11:13:48.474Z"
+  },
+  {
+    "_id": "1768216821206",
+    "name": "Admin User",
+    "mobile": "admin123",
+    "password": "$2a$10$38ZFB78WmPGLfIpADZs.FOaRB33DgnVY0klmRqiWoetocE1b0d3fO",
+    "role": "admin",
+    "createdAt": "2026-01-12T11:20:21.206Z"
+  }
+]

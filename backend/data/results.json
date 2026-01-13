@@ -1,0 +1,521 @@
+[
+  {
+    "_id": "17677775248738nvh27m57",
+    "studentId": "1767776698911",
+    "examId": "1767777309466w9s5rdvrl",
+    "score": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [],
+    "attemptedAt": "2026-01-07T09:18:44.873Z"
+  },
+  {
+    "_id": "1767777524882c2c0k6aqg",
+    "studentId": "1767776698911",
+    "examId": "1767777309466w9s5rdvrl",
+    "score": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [],
+    "attemptedAt": "2026-01-07T09:18:44.882Z"
+  },
+  {
+    "_id": "176777752908030w4gw8si",
+    "studentId": "1767776698911",
+    "examId": "1767776851460iqwafncfv",
+    "score": 0,
+    "totalQuestions": 7,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 7,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767776851461d1140l6ga",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851463ruwrt2hlr",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514637u0ar64fk",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514648dw71mser",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851466jxiwj0fzi",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777382323tmq975cvb",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777422737060e11osh",
+        "selectedOption": null,
+        "isCorrect": false
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:18:49.080Z"
+  },
+  {
+    "_id": "1767777529087yrgjhahhs",
+    "studentId": "1767776698911",
+    "examId": "1767776851460iqwafncfv",
+    "score": 0,
+    "totalQuestions": 7,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 7,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767776851461d1140l6ga",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851463ruwrt2hlr",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514637u0ar64fk",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514648dw71mser",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851466jxiwj0fzi",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777382323tmq975cvb",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777422737060e11osh",
+        "selectedOption": null,
+        "isCorrect": false
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:18:49.087Z"
+  },
+  {
+    "_id": "17677775344780oqw1tzq4",
+    "studentId": "1767776698911",
+    "examId": "1767777309466w9s5rdvrl",
+    "score": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [],
+    "attemptedAt": "2026-01-07T09:18:54.478Z"
+  },
+  {
+    "_id": "1767777534486iyqrjh342",
+    "studentId": "1767776698911",
+    "examId": "1767777309466w9s5rdvrl",
+    "score": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [],
+    "attemptedAt": "2026-01-07T09:18:54.486Z"
+  },
+  {
+    "_id": "1767777539854yn785qxcu",
+    "studentId": "1767776698911",
+    "examId": "1767777309466w9s5rdvrl",
+    "score": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [],
+    "attemptedAt": "2026-01-07T09:18:59.854Z"
+  },
+  {
+    "_id": "1767777539863a8pnegef4",
+    "studentId": "1767776698911",
+    "examId": "1767777309466w9s5rdvrl",
+    "score": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [],
+    "attemptedAt": "2026-01-07T09:18:59.863Z"
+  },
+  {
+    "_id": "17677775449358y09zlaa0",
+    "studentId": "1767776698911",
+    "examId": "1767776851460iqwafncfv",
+    "score": 0,
+    "totalQuestions": 7,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 7,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767776851461d1140l6ga",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851463ruwrt2hlr",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514637u0ar64fk",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514648dw71mser",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851466jxiwj0fzi",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777382323tmq975cvb",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777422737060e11osh",
+        "selectedOption": null,
+        "isCorrect": false
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:19:04.935Z"
+  },
+  {
+    "_id": "176777754494009m5cppiq",
+    "studentId": "1767776698911",
+    "examId": "1767776851460iqwafncfv",
+    "score": 0,
+    "totalQuestions": 7,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 7,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767776851461d1140l6ga",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851463ruwrt2hlr",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514637u0ar64fk",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514648dw71mser",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851466jxiwj0fzi",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777382323tmq975cvb",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777422737060e11osh",
+        "selectedOption": null,
+        "isCorrect": false
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:19:04.940Z"
+  },
+  {
+    "_id": "1767777551537vaid2q8lf",
+    "studentId": "1767776698911",
+    "examId": "1767776851460iqwafncfv",
+    "score": 0,
+    "totalQuestions": 7,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 7,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767776851461d1140l6ga",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851463ruwrt2hlr",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514637u0ar64fk",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514648dw71mser",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851466jxiwj0fzi",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777382323tmq975cvb",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777422737060e11osh",
+        "selectedOption": null,
+        "isCorrect": false
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:19:11.537Z"
+  },
+  {
+    "_id": "1767777551540lfl8878aw",
+    "studentId": "1767776698911",
+    "examId": "1767776851460iqwafncfv",
+    "score": 0,
+    "totalQuestions": 7,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 7,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767776851461d1140l6ga",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851463ruwrt2hlr",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514637u0ar64fk",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "17677768514648dw71mser",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851466jxiwj0fzi",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777382323tmq975cvb",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777422737060e11osh",
+        "selectedOption": null,
+        "isCorrect": false
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:19:11.540Z"
+  },
+  {
+    "_id": "1767777598422506c5dr01",
+    "studentId": "1767776698911",
+    "examId": "1767777309466w9s5rdvrl",
+    "score": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [],
+    "attemptedAt": "2026-01-07T09:19:58.422Z"
+  },
+  {
+    "_id": "1767777598431kx94gcncw",
+    "studentId": "1767776698911",
+    "examId": "1767777309466w9s5rdvrl",
+    "score": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [],
+    "attemptedAt": "2026-01-07T09:19:58.431Z"
+  },
+  {
+    "_id": "1767777855007daq7x8ejn",
+    "studentId": "1767776698911",
+    "examId": "1767776851460iqwafncfv",
+    "score": 5,
+    "totalQuestions": 7,
+    "correctAnswers": 3,
+    "incorrectAnswers": 0,
+    "notAttempted": 4,
+    "status": "Pass",
+    "studentAnswers": [
+      {
+        "questionId": "1767776851461d1140l6ga",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851463ruwrt2hlr",
+        "selectedOption": "Mars",
+        "isCorrect": true
+      },
+      {
+        "questionId": "17677768514637u0ar64fk",
+        "selectedOption": "4",
+        "isCorrect": true
+      },
+      {
+        "questionId": "17677768514648dw71mser",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767776851466jxiwj0fzi",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777382323tmq975cvb",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "1767777422737060e11osh",
+        "selectedOption": "Spam Mail",
+        "isCorrect": true
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:24:15.007Z"
+  },
+  {
+    "_id": "1767778932817w2xvxtcmy",
+    "studentId": "1767776698911",
+    "examId": "17677788858292mrtwcova",
+    "score": 2,
+    "totalQuestions": 2,
+    "correctAnswers": 2,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767778894419m4ydjj6fb",
+        "selectedOption": "હાર્ડવેર અને સોફ્ટવેર વચ્ચે કનેક્શન સ્થાપિત કરવું",
+        "isCorrect": true
+      },
+      {
+        "questionId": "176777889443892bwkhh88",
+        "selectedOption": "MS Word",
+        "isCorrect": true
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:42:12.817Z"
+  },
+  {
+    "_id": "1767778968577290ei58pl",
+    "studentId": "1767776698911",
+    "examId": "17677788858292mrtwcova",
+    "score": 0,
+    "totalQuestions": 2,
+    "correctAnswers": 0,
+    "incorrectAnswers": 0,
+    "notAttempted": 2,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767778894419m4ydjj6fb",
+        "selectedOption": null,
+        "isCorrect": false
+      },
+      {
+        "questionId": "176777889443892bwkhh88",
+        "selectedOption": null,
+        "isCorrect": false
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:42:48.577Z"
+  },
+  {
+    "_id": "1767779723242fcc39aw4j",
+    "studentId": "1767776698911",
+    "examId": "17677788858292mrtwcova",
+    "score": 2,
+    "totalQuestions": 2,
+    "correctAnswers": 2,
+    "incorrectAnswers": 0,
+    "notAttempted": 0,
+    "status": "Fail",
+    "studentAnswers": [
+      {
+        "questionId": "1767778894419m4ydjj6fb",
+        "selectedOption": "હાર્ડવેર અને સોફ્ટવેર વચ્ચે કનેક્શન સ્થાપિત કરવું",
+        "isCorrect": true
+      },
+      {
+        "questionId": "176777889443892bwkhh88",
+        "selectedOption": "MS Word",
+        "isCorrect": true
+      }
+    ],
+    "attemptedAt": "2026-01-07T09:55:23.242Z"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "1767776851460iqwafncfv",
+    "title": "General Knowledge Quiz",
+    "duration": 15,
+    "totalMarks": 10,
+    "passingMarks": 4,
+    "isActive": true,
+    "questions": [
+      "1767776851461d1140l6ga",
+      "1767776851463ruwrt2hlr",
+      "17677768514637u0ar64fk",
+      "17677768514648dw71mser",
+      "1767776851466jxiwj0fzi",
+      "1767777382323tmq975cvb",
+      "1767777422737060e11osh"
+    ],
+    "createdBy": "1767776851457",
+    "createdAt": "2026-01-07T09:07:31.460Z"
+  },
+  {
+    "_id": "1767777309466w9s5rdvrl",
+    "title": "CCC (GTU) Exam-1",
+    "duration": "60",
+    "totalMarks": "50",
+    "passingMarks": "25",
+    "isActive": true,
+    "questions": [],
+    "createdBy": "1767776851457",
+    "createdAt": "2026-01-07T09:15:09.466Z"
+  },
+  {
+    "_id": "17677788858292mrtwcova",
+    "title": "Test-1",
+    "duration": "20",
+    "totalMarks": "20",
+    "passingMarks": "10",
+    "isActive": true,
+    "questions": [
+      "1767778894419m4ydjj6fb",
+      "176777889443892bwkhh88"
+    ],
+    "createdBy": "1767776851457",
+    "createdAt": "2026-01-07T09:41:25.829Z"
+  },
+  {
+    "_id": "1768216428476vqcdiv24v",
+    "title": "General Knowledge Quiz",
+    "duration": 15,
+    "totalMarks": 10,
+    "passingMarks": 4,
+    "isActive": true,
+    "questions": [
+      "1768216428478zkgl8ljtc",
+      "1768216428479uvwn270m0",
+      "17682164284805ribxmxnl",
+      "1768216428481t2ogt53iz",
+      "1768216428481sd47ms75l"
+    ],
+    "createdBy": "1768216428474",
+    "createdAt": "2026-01-12T11:13:48.476Z"
+  },
+  {
+    "_id": "1768216821208q3w78bdob",
+    "title": "General Knowledge Quiz",
+    "duration": 15,
+    "totalMarks": 10,
+    "passingMarks": 4,
+    "isActive": true,
+    "questions": [
+      "176821682121002cvb7p7d",
+      "1768216821211shla84qxa",
+      "1768216821212p68gkbsix",
+      "17682168212139picc2lus",
+      "176821682121460sh9fv3y"
+    ],
+    "createdBy": "1768216821206",
+    "createdAt": "2026-01-12T11:20:21.208Z"
+  }
+]
